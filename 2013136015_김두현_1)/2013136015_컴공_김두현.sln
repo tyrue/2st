@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2013136015_컴공_김두현", "2013136015_컴공_김두현\2013136015_컴공_김두현.vcxproj", "{2398168B-DACA-4460-A88A-D90FBBF51276}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2398168B-DACA-4460-A88A-D90FBBF51276}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2398168B-DACA-4460-A88A-D90FBBF51276}.Debug|Win32.Build.0 = Debug|Win32
+		{2398168B-DACA-4460-A88A-D90FBBF51276}.Release|Win32.ActiveCfg = Release|Win32
+		{2398168B-DACA-4460-A88A-D90FBBF51276}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
